@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="textView_welcome">Welcome to MadLibs!</string>
+    <string name="button_start">Get Started</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="textView_madLib">MadLibs</string>
+    <string name="textView_title">Title</string>
+    <string name="second_linear_layout">Linear Layout</string>
+    <string name="button_generate">Generate</string>
+    <string name="scrollview">ScrollView</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="textView_info">information</string>
+    <string name="button_goHome">GO HOME</string>
+</resources>
